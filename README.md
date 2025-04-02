@@ -26,7 +26,8 @@ No more betting blind. Let the data work for you.
 2. Filters for specific books (e.g., Pinnacle, DraftKings, etc.)  
 3. Devigs the sharpest books using weighted probabilities  
 4. Compares market odds to fair odds to find +EV bets  
-5. Pushes alerts to Discord if configured  
+5. Pushes alerts to Discord if configured
+6. Creates a .csv file of all edges based on your criteria 
 
 ---
 
