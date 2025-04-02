@@ -53,6 +53,8 @@ Sign up for a free or premium API key here:
 
 Then paste your API key into the config section of `EPL_1x2.py`.
 
+NOTE: This script has only been tested with a premium API key.
+
 ---
 
 ## ⚙️ Configuration
